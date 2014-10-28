@@ -5,6 +5,7 @@
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700);
 
 @import url(http://fonts.googleapis.com/css?family=Ubuntu+Condensed&subset=latin,cyrillic);
+@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,400italic&subset=latin,cyrillic);
 /*---------------------------------------------------
     LESS Elements 0.9.1
   ---------------------------------------------------
@@ -183,7 +184,7 @@ html {
 }
 body {
   line-height: 1.65;
-  font-family: 'Ubuntu Condensed', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   height: 100%;
   width: 100%;
 }
